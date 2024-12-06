@@ -267,12 +267,12 @@ If you're interested in learning more about Sengunthar Mahal A/C in Gudiyatham, 
 </body>
 </html>
 ```
-# OUTPU![Screenshot 2024-12-06 094226](https://github.com/user-attachments/assets/81ac203c-1d10-4818-8486-bf08f8d4238b)
-![Screenshot 2024-12-06 094217](https://github.com/user-attachments/assets/1dac42b8-2c43-461a-86d0-ff8194c42cb2)
-![Screenshot 2024-12-06 094143](https://github.com/user-attachments/assets/4caa06ef-41e2-4d1f-afcb-87524100626b)
-![Screenshot 2024-12-06 094155](https://github.com/user-attachments/assets/a6f5b52c-4d30-4d53-a46d-bb6093664340)
-![Screenshot 2024-12-06 094148](https://github.com/user-attachments/assets/7e52716a-5589-4fac-bdbe-add8190f5d7d)
-![Screenshot 2024-12-06 094251](https://github.com/user-attachments/assets/d9136320-dc52-4e40-b37b-b208f1227e50)
+# OUTPU![Screenshot 2024-12-06 094251](https://github.com/user-attachments/assets/f36bbd1c-5d46-4740-96d2-21f1ee1ce30b)
+![Screenshot 2024-12-06 094226](https://github.com/user-attachments/assets/d144fdad-b5ed-4006-939d-b12d0e89ed77)
+![Screenshot 2024-12-06 094217](https://github.com/user-attachments/assets/1e803d6d-1dd5-473e-a5a0-2a0212da2cb1)
+![Screenshot 2024-12-06 094155](https://github.com/user-attachments/assets/8a5d586f-afd0-40c4-877c-49631a273816)
+![Screenshot 2024-12-06 094148](https://github.com/user-attachments/assets/70539c44-4254-43e0-bc13-eb2e27651479)
+![Screenshot 2024-12-06 094143](https://github.com/user-attachments/assets/c46d8084-5e36-4f58-bdb0-0e68e9d72503)
 
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
